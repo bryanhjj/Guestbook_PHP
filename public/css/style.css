@@ -1,0 +1,53 @@
+.header-container {
+    background-color: orange;
+    height: 15vh;
+}
+
+.cent {
+    margin: auto;
+    padding-top: 1vh;
+}
+
+.header-title {
+    color: white;
+    padding-left: 3vw;
+}
+
+.record-container {
+    border: 1px solid grey ;
+    margin: 1vh 0 1vh 0;
+    padding: 0 2vw 0 2vw;
+}
+
+.g-name {
+    text-align: right;
+}
+
+.g-content {
+    text-align: right;
+}
+
+.new-container {
+    width: 100vw;
+    height: 5vh;
+    margin: 1vh 0 1vh 0;
+}
+
+.new-btn {
+    width: 30vw;
+    height: 5vh;
+    margin-left: 35vw;
+}
+
+.inp {
+    width: 100%;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 1vh 1vw;
+    margin: 1vh 0;
+}
+
+.footer {
+    width: 100vw;
+    text-align: center;
+}
